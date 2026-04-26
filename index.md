@@ -14,9 +14,9 @@ their self-reported understanding ratings across these groups.
 
 ## Visualizations
 
-![Chart 1]({{ site.baseurl }}/static/chart1.png)
-![Chart 2]({{ site.baseurl }}/static/chart2.png)
-![Chart 3]({{ site.baseurl }}/static/chart3.png)
+![Chart 1](static/chart1.png)
+![Chart 2](static/chart2.png)
+![Chart 3](static/chart3.png)
 
 ## Conclusion
 
