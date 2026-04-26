@@ -1,4 +1,7 @@
-# EX09 Data Analysis - Continuous Improvement
+---
+layout: page
+title: EX09 Data Analysis - Continuous Improvement
+---
 
 ## Analysis Summary
 
